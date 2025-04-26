@@ -1,0 +1,33 @@
+# Bank Management System in C
+
+This project is a simple Bank Management System written in C language.  
+It allows users to manage bank accounts easily through a menu-driven console interface.
+
+## ✨ Features
+- Create new bank accounts
+- Deposit money into accounts
+- Withdraw money from accounts
+- Check balance of existing accounts
+- Data is stored persistently in a `account.csv` file
+
+## 🛠 Technologies Used
+- C Programming Language
+- File Handling in C
+- Structs and Functions
+
+## 📂 Files
+- `main.c` : Contains the source code of the Bank Management System
+- `account.csv` : CSV file where account data is saved
+
+## 📢 How to Run
+1. Compile the `main.c` file using any C compiler.
+2. Run the executable.
+3. Follow the menu to perform banking operations.
+
+## 📌 Important
+- Make sure the `account.csv` file is created in the same directory if it doesn't already exist.
+- No database is required; everything is handled through file operations.
+
+---
+
+Made with ❤️ by Vishupanwar Gurjar
