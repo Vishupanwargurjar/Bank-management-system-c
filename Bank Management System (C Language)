@@ -1,0 +1,13 @@
+# Bank Management System (C Language)
+
+This is a simple bank management system project developed in C language.  
+It allows the user to:
+- Create an account
+- Deposit money
+- Withdraw money
+- Check account balance
+
+The data is stored in a CSV file (`account.csv`).
+
+## How to Run
+- Compile using GCC:
